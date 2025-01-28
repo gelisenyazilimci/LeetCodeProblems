@@ -6,14 +6,14 @@ class Program
     {
         int[] nums = [1, 1, 2, 3, 3,];
         int[] exceptedNums = [1, 2, 3];
-        // int k = RemoveDuplicates(nums);
-        // if (k == exceptedNums.Length)
-        // {
-        //     for (int i = 0; i < k; i++)
-        //     {
-        //         nums[i] = exceptedNums[i];
-        //     }
-        // }    
+            // int k = RemoveDuplicates(nums);
+            // if (k == exceptedNums.Length)
+            // {
+            //     for (int i = 0; i < k; i++)
+            //     {
+            //         nums[i] = exceptedNums[i];
+            //     }
+            // }    
     }
      static int RemoveDuplicates(int[] nums)
      {
