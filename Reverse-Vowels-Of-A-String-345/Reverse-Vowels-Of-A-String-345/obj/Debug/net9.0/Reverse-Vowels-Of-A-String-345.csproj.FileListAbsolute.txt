@@ -1,0 +1,15 @@
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\bin\Debug\net9.0\Reverse-Vowels-Of-A-String-345.exe
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\bin\Debug\net9.0\Reverse-Vowels-Of-A-String-345.deps.json
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\bin\Debug\net9.0\Reverse-Vowels-Of-A-String-345.runtimeconfig.json
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\bin\Debug\net9.0\Reverse-Vowels-Of-A-String-345.dll
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\bin\Debug\net9.0\Reverse-Vowels-Of-A-String-345.pdb
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.AssemblyInfoInputs.cache
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.AssemblyInfo.cs
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.csproj.CoreCompileInputs.cache
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.sourcelink.json
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.dll
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\refint\Reverse-Vowels-Of-A-String-345.dll
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.pdb
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\Reverse-Vowels-Of-A-String-345.genruntimeconfig.cache
+C:\Users\burak\projects\LeetCodeProblems\Reverse-Vowels-Of-A-String-345\Reverse-Vowels-Of-A-String-345\obj\Debug\net9.0\ref\Reverse-Vowels-Of-A-String-345.dll
