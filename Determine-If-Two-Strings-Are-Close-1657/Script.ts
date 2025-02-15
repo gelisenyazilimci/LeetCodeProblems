@@ -26,6 +26,7 @@ function closeStrings(word1: string, word2: string): boolean {
 
     if (freqKeys1.length !== freqKeys2.length) return false;
 
+    // @ts-ignore
     for (let freqKey of freqKeys1) if (freqCount1[freqKey] !== freqCount2[freqKey]) return false;
 
     return true;
