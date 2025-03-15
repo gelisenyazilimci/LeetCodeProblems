@@ -32,4 +32,4 @@ function maximumCandies(candies, k) {
     }
     return answer;
 }
-*/ <=
+*/
