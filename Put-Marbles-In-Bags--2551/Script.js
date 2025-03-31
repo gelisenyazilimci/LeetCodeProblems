@@ -10,6 +10,5 @@ let putMarbles = function (weights, k) {
     pairSums.sort((a, b) => a - b);
     for (let i = 0; i < k - 1; i++) {
         minScore += pairSums[i]; maxScore += pairSums[weights.length - 2 - i];
-    }
-    return maxScore - minScore;
+    } return maxScore - minScore;
 }
